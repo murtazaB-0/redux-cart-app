@@ -1,5 +1,6 @@
 {
-  "name": "react-complete-guide",
+  "homepage": "https://murtazaB-0.github.io/redux-cart-app",
+  "name": "redux-cart-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
